@@ -262,6 +262,12 @@ __pycache__/
 
 # 
 !Data/SequenceClassification/*
+!Data/SequenceClassification/Data/*
+!Data/SequenceClassification/Data/embeddingmatrix.txt
+!Data/SequenceClassification/Data/Train.txt
+!Data/SequenceClassification/baseline.cpu.txt
+!Data/SequenceClassification/baseline.gpu.txt
+
 # add by User
 Data/CIFAR-10/cifar-10-batches-py
 
